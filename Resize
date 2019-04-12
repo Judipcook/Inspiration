@@ -1,0 +1,8 @@
+Example 1: Code without adjusting size
+<p><img src="https://tcnj.instructure.com/files/94038119/download?download_frd=1" alt="Draft Matt and Judi header.jpg" /></p>
+
+Example 2: Code after adjusting size 
+<p><img src="https://tcnj.instructure.com/files/94038119/download?download_frd=1" alt="Draft Matt and Judi header.jpg" width="601" height="147" /></p>
+
+Example 3: Code to automatically resize image to fit your user's browser window
+<p><img src="https://tcnj.instructure.com/files/94038119/download?download_frd=1" alt="Draft Matt and Judi header.jpg" width="100%" height
